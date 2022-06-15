@@ -91,4 +91,7 @@ lib/generated_plugin_registrant.dart
 # Ignore code-workspaces
 *.code-workspace
 
+#Personal ignore
+/scrcpy
+
 # End of https://www.toptal.com/developers/gitignore/api/flutter,visualstudiocode
