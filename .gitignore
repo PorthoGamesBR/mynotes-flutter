@@ -93,5 +93,8 @@ lib/generated_plugin_registrant.dart
 
 #Personal ignore
 /scrcpy
+firebase_options.dart
+firebase_app_id_file.json
+google-services.json
 
 # End of https://www.toptal.com/developers/gitignore/api/flutter,visualstudiocode
